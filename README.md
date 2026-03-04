@@ -30,4 +30,6 @@ URL dans CSEntry : http://adresse ip ou le nom du domaine/csweb/ (remplace par l
 ## Auteur & contact 
 **Prosper Nindagiye** <br>
 Bujumbura, Burundi 
-Mars 2026 
+Mars 2026<br>
+nindagiyeprosper@gmail.com<br>
++25767895912
