@@ -28,6 +28,6 @@ Tous les téléphones doivent ˆtre sur le **meme réseau Wi-Fi** que l'ordinate
 URL dans CSEntry : http://adresse ip ou le nom du domaine/csweb/ (remplace par l'IP actuelle via ipconfig) 
  
 ## Auteur & contact 
-**Prosper Nindagiye** 
+**Prosper Nindagiye** <br>
 Bujumbura, Burundi 
 Mars 2026 
