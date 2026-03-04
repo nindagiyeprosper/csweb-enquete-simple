@@ -24,7 +24,7 @@ Serveur **CSWeb** install‚ localement sous **XAMPP** pour synchroniser les que
 6. Connexion … l'interface : http://localhost/csweb/ (admin + mot de passe) 
  
 ## Connexion des enquˆteurs (depuis leurs t‚l‚phones Android) 
-Tous les téléphones doivent ˆtre sur le **meme réseau Wi-Fi** que l'ordinateur serveur. 
+Tous les téléphones doivent etre sur le **meme réseau Wi-Fi** que l'ordinateur serveur. 
 URL dans CSEntry : http://adresse ip ou le nom du domaine/csweb/ (remplace par l'IP actuelle via ipconfig) 
  
 ## Auteur & contact 
