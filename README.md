@@ -1,30 +1,30 @@
-# Enquˆte simple sur terrain avec CSPro 
+# EnqueË†te simple sur terrain avec CSPro 
  
-Serveur **CSWeb** install‚ localement sous **XAMPP** pour synchroniser les questionnaires **CSEntry** (Android) lors d'enquˆtes sur le terrain au Burundi. 
+Serveur **CSWeb** installâ€š localement sous **XAMPP** pour synchroniser les questionnaires **CSEntry** (Android) lors d'enquË†tes sur le terrain au Burundi. 
  
-## Fonctionnalit‚s actuelles (mars 2026) 
-- Synchronisation des donn‚es depuis CSEntry (Android) vers le serveur local 
-- Gestion des r“les utilisateurs : admin, superviseur, contr“leur, agent enquˆteur 
-- Capture GPS optionnelle (latitude, longitude, altitude, pr‚cision en mŠtres + noms administratifs : province, commune, zone, colline/quartier) 
-- T‚l‚chargement des donn‚es en .csv / .dat / .zip depuis l'interface CSWeb 
-- Test r‚ussi : 1 cas synchronis‚ (mars 2026) 
+## Fonctionnalitâ€šs actuelles (mars 2026) 
+- Synchronisation des donnâ€šes depuis CSEntry (Android) vers le serveur local 
+- Gestion des râ€œles utilisateurs : admin, superviseur, contrâ€œleur, agent enquË†teur 
+- Capture GPS optionnelle (latitude, longitude, altitude, prâ€šcision en mÅ tres + noms administratifs : province, commune, zone, colline/quartier) 
+- Tâ€šlâ€šchargement des donnâ€šes en .csv / .dat / .zip depuis l'interface CSWeb 
+- Test râ€šussi : 1 cas synchronisâ€š (mars 2026) 
  
-## Pr‚requis 
-- Windows (test‚ sur Windows 10) 
+## Prâ€šrequis 
+- Windows (testâ€š sur Windows 10) 
 - XAMPP (Apache + MySQL + PHP 8+) 
-- CSPro 8.0+ install‚ 
-- CSEntry install‚ sur les t‚l‚phones Android des enquˆteurs 
+- CSPro 8.0+ installâ€š 
+- CSEntry installâ€š sur les tâ€šlâ€šphones Android des enquË†teurs 
  
 ## Installation rapide (local sur PC) 
-1. T‚l‚charger et installer **XAMPP** : https://www.apachefriends.org/fr/index.html 
-2. D‚marrer XAMPP  lancer Apache et MySQL 
+1. Tâ€šlâ€šcharger et installer **XAMPP** : https://www.apachefriends.org/fr/index.html 
+2. Dâ€šmarrer XAMPP  lancer Apache et MySQL 
 3. Copier le dossier `csweb` dans : `C:\xampp\htdocs\csweb` 
 4. Ouvrir dans le navigateur : http://localhost/csweb/setup/setup.php 
 5. Suivre l'assistant : base `csweb_db`, utilisateur `root`, mot de passe vide 
-6. Connexion … l'interface : http://localhost/csweb/ (admin + mot de passe) 
+6. Connexion â€¦ l'interface : http://localhost/csweb/ (admin + mot de passe) 
  
-## Connexion des enquˆteurs (depuis leurs t‚l‚phones Android) 
-Tous les t‚l‚phones doivent ˆtre sur le **mˆme r‚seau Wi-Fi** que l'ordinateur serveur. 
+## Connexion des enquË†teurs (depuis leurs tâ€šlâ€šphones Android) 
+Tous les tâ€šlâ€šphones doivent Ë†tre sur le **mË†me râ€šseau Wi-Fi** que l'ordinateur serveur. 
 URL dans CSEntry : http://adresse ip ou le nom du domaine/csweb/ (remplace par l'IP actuelle via ipconfig) 
  
 ## Auteur & contact 
